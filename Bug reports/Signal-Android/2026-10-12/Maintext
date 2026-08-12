@@ -1,0 +1,21 @@
+Title:
+Android Split-Screen breaks message and chat viewing
+
+
+
+Bodytext
+I was attempting to use the inbuilt split-screen to record a voice note while reading from my notes app, but I cannot use the chat functionality or see message history whatsoever while in split screen, the only thing that appears upon loading a chat is a blank grey screen - the "home page", where all the chats and settings are displayed seems fully functional however. This behaviour persists through full-screening the app using the central Android swipe-to-adjust proportions  bar (I am unaware of the correct name) and requires a restart of the app before returning to normal - using the show windows button the the bottom right of the toolbar and swiping the app away, force-stopping the app is not necessary. 
+
+I am using a Motorola G84 5G on (to my knowledge, and the testimony of the Google Play Store App) the latest version of Android and the latest version Signal-Android released on the Google Play store.
+
+The behaviour is consistent regardless of the app, app-source, location, orientation, etc. of the second app in split screen. I cannot accurately report on whether this is a new behaviour or longstanding, as I rarely if ever use the split-screen function.
+
+See attch. screen recording for demonstration.
+
+Details:
+moto g84 5G (XT2347-2)
+Android 15
+Signal 8.21.6
+
+Debug Log Link:
+https://debuglogs.org/android/8.21.6/9c0b6cc732eb10bc9abc32f5419638ce2d926cd16f3038ac39f1a98a1eca80ef
